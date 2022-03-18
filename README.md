@@ -36,7 +36,7 @@ Create branches
 $ git branch [branch]
 ```
 
-Display a list of branch
+Display a list of branchs
 
 ```
 $ git branch
